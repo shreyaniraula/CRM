@@ -10,5 +10,3 @@ crm/asgi.py
 crm/wsgi.py
 
 images/
-db.sqlite3
-manage.py
